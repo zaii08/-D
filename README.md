@@ -1,0 +1,2 @@
+# -D
+Telefono-rotativo-solido
